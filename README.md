@@ -3,7 +3,7 @@
 Ce projet vise à prédire le surplus de produits pour aider à la prise de décision sur les promotions.
 
 ##  Liens
-- **Application Web :** [Non encore déployée]
+- **Application Web :** [https://application-supermarche.streamlit.app]
 - **Dépôt GitLab (CI/CD) :** [https://gitlab.com/datascience-upb/projet-mlops-supermarche-cicd]
 
 ##  Stack Technique
